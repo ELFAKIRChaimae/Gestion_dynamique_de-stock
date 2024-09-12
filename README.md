@@ -7,8 +7,7 @@ Gestion Dynamique de Stock  Ce projet utilise des techniques de machine learning
 - Prédiction des ventes futures basées sur des données historiques.
 - Optimisation des niveaux de stock hebdomadaires.
 - Visualisation interactive des données et des prévisions via une interface web.
-- Génération de rapports sur l'état du stock et les prévisions.
-
+- 
 ## Technologies utilisées
 - **Langages** : Python
 - **Bibliothèques Machine Learning** : scikit-learn, pandas, numpy
