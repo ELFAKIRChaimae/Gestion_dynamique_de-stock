@@ -18,14 +18,19 @@ This project focuses on inventory management utilizing predictive analytics and 
 - **Streamlit**
 - **GitHub**
 
-## App:
-<img src="images.zip/C1"
+## Images
 
-## Installation
+### Application Interface
+![Application Interface](images.zip/C1.png)
 
-To install the project, follow these steps:
+### Sales Trends Visualization
+![Sales Trends Visualization](images.zip/C2.png)
 
-1. Clone the repository:
+### Inventory Dashboard
+![Inventory Dashboard](images.zip/C3.png)
+
+
+
 
    ```bash
    git clone https://github.com/username/repository_name](https://github.com/ELFAKIRChaimae/Gestion_dynamique_de-stock.git
