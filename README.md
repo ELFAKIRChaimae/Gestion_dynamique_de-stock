@@ -21,12 +21,12 @@ This project focuses on inventory management utilizing predictive analytics and 
 ## Images
 
 ### Application Interface
-![Application Interface](images.zip/images/C1.png)
+![Application Interface](images.zip/images/C1.PNG)
 
 ### Sales Trends Visualization
-![Sales Trends Visualization](images.zip/images/C2.png)
+![Sales Trends Visualization](images.zip/images/C2.PNG)
 
 ### Inventory Dashboard
-![Inventory Dashboard](images.zip/images/C3.png)
+![Inventory Dashboard](images.zip/images/C3.PNG)
 
 
