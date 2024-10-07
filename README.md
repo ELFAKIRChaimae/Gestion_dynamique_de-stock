@@ -21,20 +21,12 @@ This project focuses on inventory management utilizing predictive analytics and 
 ## Images
 
 ### Application Interface
-![Application Interface](images.zip/C1.png)
+![Application Interface](images.zip/images/C1.png)
 
 ### Sales Trends Visualization
-![Sales Trends Visualization](images.zip/C2.png)
+![Sales Trends Visualization](images.zip/images/C2.png)
 
 ### Inventory Dashboard
-![Inventory Dashboard](images.zip/C3.png)
+![Inventory Dashboard](images.zip/images/C3.png)
 
-
-
-
-   ```bash
-   git clone https://github.com/username/repository_name](https://github.com/ELFAKIRChaimae/Gestion_dynamique_de-stock.git
-   cd Gestion_dynamique_de-stock
-   pip install -r requirements.txt
-   streamlit run app.py
 
