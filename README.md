@@ -21,13 +21,13 @@ This project focuses on leveraging predictive analytics and machine learning alg
 ## Screenshots
 
 ### Application Interface
-![Application Interface](images.zip/images/C1.PNG)
+![Application Interface](images/images_C1.PNG)
 
 ### Sales Trends Visualization
-![Sales Trends Visualization](images.zip/images/C2.PNG)
+![Sales Trends Visualization](images/images_C2.PNG)
 
 ### Inventory Dashboard
-![Inventory Dashboard](images.zip/images/C3.PNG)
+![Inventory Dashboard](images/images_C3.PNG)
 
 ## How to Run the Project
 
