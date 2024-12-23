@@ -2,23 +2,23 @@
 
 ## Description
 
-This project focuses on inventory management utilizing predictive analytics and machine learning algorithms for sales forecasting and inventory optimization. By analyzing historical sales data and other relevant factors, sophisticated algorithms are employed to accurately forecast future sales. The project also dynamically adjusts stock levels based on demand forecasts to ensure optimal inventory levels and minimize costs.
+This project focuses on leveraging predictive analytics and machine learning algorithms for efficient inventory management. By analyzing historical sales data and various other factors, advanced algorithms are utilized to forecast future sales with high accuracy. The system dynamically adjusts inventory levels based on demand predictions to ensure optimal stock levels while minimizing operational costs.
 
 ### Objectives
 
-- **Sales Forecasting:** Predict weekly sales for 45 stores using machine learning models.
-- **Inventory Optimization:** Adjust stock levels dynamically based on demand forecasts.
-- **Automation:** Enhance operational efficiency and enable real-time decision-making.
+- **Sales Forecasting:** Use machine learning models to predict weekly sales across 45 stores.
+- **Inventory Optimization:** Dynamically adjust stock levels based on the sales forecasts to ensure efficient inventory management.
+- **Automation:** Improve operational efficiency and enable real-time decision-making.
 
-## Tools Used
+## Tools & Technologies Used
 
-- **Scikit-learn**
-- **Pandas**
-- **Plotly**
-- **Streamlit**
-- **GitHub**
+- **Scikit-learn** for implementing machine learning algorithms.
+- **Pandas** for data manipulation and analysis.
+- **Plotly** for visualizing sales trends and inventory data.
+- **Streamlit** for building the interactive application interface.
+- **GitHub** for version control and collaboration.
 
-## Images
+## Screenshots
 
 ### Application Interface
 ![Application Interface](images.zip/images/C1.PNG)
@@ -29,4 +29,36 @@ This project focuses on inventory management utilizing predictive analytics and 
 ### Inventory Dashboard
 ![Inventory Dashboard](images.zip/images/C3.PNG)
 
+## How to Run the Project
 
+### Prerequisites
+
+Ensure you have the following installed:
+- Python 3.x
+- Pip (Python package installer)
+
+### Installation Steps
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/dynamic-inventory-management.git
+    cd dynamic-inventory-management
+    ```
+
+2. Install required Python packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the Streamlit application:
+    ```bash
+    streamlit run app.py
+    ```
+
+The application will open in your web browser where you can interact with the sales forecasting and inventory management system.
+
+---
+
+## Acknowledgments
+
+- Thanks to the contributors and open-source libraries that made this project possible.
